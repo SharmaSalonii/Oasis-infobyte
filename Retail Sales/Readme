@@ -1,0 +1,23 @@
+                                      ** McDonald's Nutritional Facts**
+This repository provides nutritional information about popular McDonald's menu items. This data is intended to help customers make informed choices based on their dietary preferences and needs.
+
+https://etimg.etb2bimg.com/thumb/msid-80836731,width-1200,height-900,resizemode-4/.jpg
+
+Introduction McDonald's is one of the world's most recognized fast-food chains. This repository provides detailed nutritional information for popular items, including calories, fat, carbohydrates, and protein content.
+
+Analysis:
+
+. Calories: The average number of calories is 368.26 kcal. The range (0.0 - 1880) shows significant variability, with Chicken McNuggets (40 piece) being the highest.
+
+. Fat: The standard deviation for fat is high (14.2g), meaning some items have a lot more fat than others. The highest fat content is in the Chicken McNuggets (118g).
+
+. Carbs: Items with high carbs include Chocolate Shake (141g), which is much higher than the average (47.3g).
+
+. There is a strong positive correlation (0.904) between calories and fat. This means that items with higher fat tend to have higher calories.
+
+. Calories and protein also have a moderate positive correlation (0.787), suggesting that protein content often rises with calories.
+
+. Chicken and Fish category in menu has the highest calories.
+
+full code link - http://localhost:8888/notebooks/retail%20sales%20p1.ipynb?
+
