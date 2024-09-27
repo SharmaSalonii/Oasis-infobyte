@@ -28,3 +28,8 @@ Android Version
 **Link to Dataset**
 https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play?select=datasets
 
+**Conclusion**
+Popular Categories: The most popular categories in the app market include Family, Game, and Tools.
+Free vs Paid: Free apps significantly outnumber paid apps, and free apps tend to have higher install counts.
+Price Impact: Paid apps generally have lower install counts, which reflects user preference for free content.
+
