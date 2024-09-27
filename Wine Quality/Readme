@@ -1,1 +1,21 @@
+           **Wine Quality Prediction Project**
 
+This project aims to analyze and predict the quality of red and white wines based on various physicochemical properties. 
+The dataset is sourced from the Kaggle Wine Quality Dataset.
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
+Features
+The following features are present in the dataset:
+
+-fixed acidity: Tartaric acid level in g/dm³
+-volatile acidity: Acetic acid level in g/dm³
+-citric acid: Citric acid level in g/dm³
+-residual sugar: Sugar level after fermentation in g/dm³
+-chlorides: Chloride level in g/dm³
+-free sulfur dioxide: Free SO2 in mg/dm³
+-total sulfur dioxide: Total SO2 in mg/dm³
+-density: Density of the wine in g/cm³
+-pH: Acidity level (pH scale)
+-sulphates: Potassium sulfate level in g/dm³
+-alcohol: Alcohol percentage by volume
+-quality: Quality score given by wine experts (target variable)
