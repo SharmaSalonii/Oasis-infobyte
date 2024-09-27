@@ -1,1 +1,30 @@
+                              **Unveiling the Android App Market: Analyzing Google Play Store Data || Data Analysis Project**
+
+
+Project Overview:
+
+This project, Unveiling the Android App Market, aims to perform an in-depth analysis of the Android app ecosystem using a dataset sourced from Kaggle. 
+The primary goal is to uncover valuable insights about app categories, user ratings, pricing strategies, app sizes, and more. This analysis will help 
+stakeholders understand market trends, user preferences, and areas of opportunity in the Android app market.
+
+Dataset
+The dataset used in this project is sourced from Kaggle, titled "Android App Market Analysis", which contains a variety of features related to Android 
+apps, such as:
+
+App Name
+Category
+Rating
+Reviews
+Size
+Installs
+Type (Free or Paid)
+Price
+Content Rating
+Genres
+Last Updated
+Current Version
+Android Version
+
+**Link to Dataset**
+https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play?select=datasets
 
