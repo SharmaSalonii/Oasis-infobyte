@@ -1,1 +1,13 @@
+                    **Customer Segmentation Analysis**
+Customer segmentation is a powerful marketing technique that involves dividing a customer base into distinct 
+segments based on shared characteristics, behaviours, or demographics. 
 
+Dataset
+The dataset used for this analysis can be found on Kaggle's Marketing Analytics -  https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation
+It includes customer purchase records and relevant metrics such as the frequency of purchases, total spend, and recency of transactions.
+
+**Conclusion:**
+The average purchase value is 563.789213260762
+The average Income is 51687.2587827808
+Most customer are between the Age range 40-50 
+Widow spends the highest amount on purchase and they are the most educated.
