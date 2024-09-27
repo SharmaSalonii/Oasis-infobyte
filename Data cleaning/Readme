@@ -1,1 +1,20 @@
+            **New York City Airbnb Open Data - Data Cleaning Process**
 
+This project focuses on the New York City Airbnb Open Data, which provides detailed information about Airbnb listings in the city, 
+including details like location, price, availability, host information, and reviews. This dataset is sourced from Kaggle. In this
+document, we will outline the steps taken to clean the dataset before performing analysis or building machine learning models.
+
+**Dataset Overview**
+
+Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data 
+Size: Over 48,000 listings
+File Format: CSV
+Number of Features: 16 features, including listing ID, host ID, host name, neighborhood information, room type, price, number of reviews,
+and availability.
+
+Data Cleaning Steps
+1. Handling Missing Values
+2. Identifying Duplicates
+3. Correcting Data Types
+4. Handling Outliers
+5. Correlation 
